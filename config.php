@@ -3,7 +3,7 @@
 $dbHost = 'localhost';
 $dbUser = 'root';
 $dbPassword = '';
-$dbName = 'jwdb_project1';
+$dbName = 'project1';
 
 // Create database connection
 $conn = new mysqli($dbHost, $dbUser, $dbPassword, $dbName);
